@@ -1,0 +1,137 @@
+<html>
+<head>
+<title>
+yes
+</title>
+</head>
+<body>
+   
+    <table style="width:100%">
+      <thead>
+        <tr>
+          <th>Type</th>
+          <th>Item</th>
+          <th>Price</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><strong>Processor</strong></td>
+          <td><a href="https://pcbuilder.net/component-details/processor/amd-ryzen-5-7600/">AMD Ryzen™ 5 7600, 6 Cores & 12 Threads Unlocked Desktop Processor With Wraith Stealth Cooler </a></td>
+          <td>
+            $189.86 @ Amazon ()
+          </td>
+        </tr>
+        <tr>
+          <td><strong>Motherboard</strong></td>
+          <td><a href="https://pcbuilder.net/component-details/motherboard/gigabyte-x670-aorus-elite-ax/">GIGABYTE X670 AORUS Elite AX (AM5/ LGA 1718/ AMD/ X670/ ATX/ 5 Year Warranty/ DDR5/ Quad M.2/ PCIe 5.0/ USB 3.2 Gen2X2 Type-C/AMD WiFi 6E/ 2.5GbE LAN/Q-Flash Plus/M.2 EZ-Latch/Gaming Motherboard)</a></td>
+          <td>
+            $289.99 @ Amazon ()
+          </td>
+        </tr>
+        <tr>
+          <td><strong>CPU Cooler</strong></td>
+          <td><a href="https://pcbuilder.net/component-details/cpu-cooler/corsair-icue-h100i-rgb-pro-cw-9060043-ww/">Corsair iCUE H100i RGB Pro XT, 240mm Radiator, Dual 120mm PWM Fans, Software Control, Liquid CPU Cooler</a></td>
+          <td>
+            $118.00 @ Amazon ()
+          </td>
+        </tr>
+        <tr>
+          <td><strong>Case</strong></td>
+          <td><a href="https://pcbuilder.net/component-details/case/nzxt-cc-h51fw-r1/">NZXT H5 Flow RGB Compact ATX Mid-Tower PC Gaming Case – High Airflow Perforated Front Panel Tempered Glass Side Cable Management 2 x F140 Core Fans 280mm Radiator Support White</a></td>
+          <td>
+            $89.08 @ Amazon ()
+          </td>
+        </tr>
+        <tr>
+          <td><strong>Graphics Card</strong></td>
+          <td><a href="https://pcbuilder.net/component-details/graphics-card/xfx-rx-665x8ludy/">XFX Speedster QICK308  Radeon RX 6650XT Ultra Gaming Graphics Card with 8GB GDDR6 HDMI 3xDP, AMD RDNA 2 RX-665X8LUDY</a></td>
+          <td>
+            $270.00 @ Amazon ()
+          </td>
+        </tr>
+        <tr>
+          <td><strong>RAM</strong></td>
+          <td><a href="https://pcbuilder.net/component-details/ram/g-skill-f5-7800j3646h16gx2-tz5rk/">G.SKILL Trident Z5 RGB Series (Intel XMP 3.0) DDR5 RAM 32GB (2x16GB) 7800MT/s CL36-46-46-125 1.45V Desktop Computer Memory UDIMM - Matte Black (F5-7800J3646H16GX2-TZ5RK)</a></td>
+          <td>
+            $199.99 @ Amazon ()
+          </td>
+        </tr>
+        <tr>
+          <td><strong>Storage</strong></td>
+          <td><a href="https://pcbuilder.net/component-details/storage/seagate-barracuda-st2000dm008/">Seagate BarraCuda 2TB SATA 3 6Gb/s, 3.5" Internal Hard Drive with 7200 RPM & 256MB Cache</a></td>
+          <td>
+            $55.49 @ Amazon ()
+          </td>
+        </tr>
+        <tr>
+          <td><strong>Storage</strong></td>
+          <td><a href="https://pcbuilder.net/component-details/storage/samsung-evo-970-mz-v7e500bw/">Samsung EVO 970, 500GB PCIe NVMe M.2-2280 Internal Solid State Drive with V-NAND Technology & 512MB Cache</a></td>
+          <td>
+            $112.00 @ Amazon ()
+          </td>
+        </tr>
+        <tr>
+          <td><strong>Case Cooler</strong></td>
+          <td><a href="https://pcbuilder.net/component-details/case-cooler/noctua-noctua-nf-f12-nf-f12-pwm/">Noctua NF-F12 PWM, Premium Quiet Fan, 4-Pin</a></td>
+          <td>
+            $21.78 @ Amazon ()
+          </td>
+        </tr>
+        <tr>
+          <td><strong>Power Supply</strong></td>
+          <td><a href="https://pcbuilder.net/component-details/power-supply/thermaltake-ps-tpd-0850nnfagu-3/">Thermaltake Toughpower GX3 850W 80Plus Gold SLI/Crossfire Ready ATX 3.0 Power Supply</a></td>
+          <td>
+            $99.83 @ Amazon ()
+          </td>
+        </tr>
+        <tr>
+          <td><strong>Monitor</strong></td>
+          <td><a href="https://pcbuilder.net/component-details/monitor/asus-vg27wq1b/">ASUS TUF Gaming 27" 1440P HDR Curved Monitor (VG27WQ1B) - QHD (2560 x 1440), 165Hz (Supports 144Hz), 1ms, Extreme Low Motion Blur, Speaker, FreeSync Premium, VESA Mountable, DisplayPort, HDMI , BLACK</a></td>
+          <td>
+            $229.00 @ Amazon ()
+          </td>
+        </tr>
+        <tr>
+          <td><strong>Keyboard</strong></td>
+          <td><a href="https://pcbuilder.net/component-details/keyboard/logitech-g-920-011354/">Logitech G815 LIGHTSYNC RGB Mechanical Gaming Keyboard with Low Profile GL Tactile Key Switch, 5 programmable G-Keys,USB Passthrough</a></td>
+          <td>
+            $255.99 @ Amazon ()
+          </td>
+        </tr>
+        <tr>
+          <td><strong>Sound Card</strong></td>
+          <td><a href="https://pcbuilder.net/component-details/sound-card/creative-sb1570-70sb157000006/">Creative Sound Blaster Audigy FX PCIe 5.1 Internal Sound Card with High Performance Headphone Amp for PCs</a></td>
+          <td>
+            $44.99 @ Amazon ()
+          </td>
+        </tr>
+        <tr>
+          <td><strong>Wireless Network Adapter</strong></td>
+          <td><a href="https://pcbuilder.net/component-details/wireless-network-adapter/tp-link-wireless-n300-tl-wn823n/">TP-Link Wireless N300 Mini USB WiFi Network Adapter for Desktop PC</a></td>
+          <td>
+            $11.80 @ Amazon ()
+          </td>
+        </tr>
+        <tr>
+          <td><strong>Wired Network Adapter</strong></td>
+          <td><a href="https://pcbuilder.net/component-details/wired-network-adapter/tp-link-tl-ue300/">TP-Link TL-UE300 USB to Ethernet Adapter, Foldable USB 3.0 to 1000Gb/s Ethernet LAN Network Adapter</a></td>
+          <td>
+            $12.99 @ Amazon ()
+          </td>
+        </tr>
+        <tr>
+          <td><strong>Total</strong></td>
+          <td></td>
+          <td><strong>$2,001</strong></td>
+        </tr>
+        <tr>
+          <td colspan="3"><strong>View Rig: <a href="https://pcbuilder.net/rigs/TTL1bS/">PC Builder List</a></strong></td>
+        </tr>
+        <tr>
+          <td colspan="3"><strong>Generated by <a href="https://pcbuilder.net/">PC Builder</a> on 2nd of September, 2024</strong></td>
+        </tr>
+      </tbody>
+    </table>
+</body>
+</html>
